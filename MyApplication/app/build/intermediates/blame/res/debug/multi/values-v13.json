@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]
