@@ -1,7 +1,15 @@
 [
     {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
         "merged": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
         "source": "C:\\Android\\.android\\build-cache\\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
@@ -10,6 +18,18 @@
     {
         "merged": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
         "source": "C:\\Android\\.android\\build-cache\\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
@@ -22,5 +42,9 @@
     {
         "merged": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
         "source": "C:\\Android\\.android\\build-cache\\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     }
 ]

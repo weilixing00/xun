@@ -8,8 +8,16 @@
         "source": "C:\\Android\\.android\\build-cache\\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
         "merged": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
         "source": "C:\\Android\\.android\\build-cache\\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
         "merged": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
@@ -20,12 +28,44 @@
         "source": "C:\\Android\\.android\\build-cache\\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
         "merged": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
         "source": "C:\\Android\\.android\\build-cache\\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
         "merged": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
         "source": "C:\\Android\\.android\\build-cache\\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",

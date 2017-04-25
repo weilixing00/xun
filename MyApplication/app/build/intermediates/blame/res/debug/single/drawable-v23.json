@@ -2,5 +2,9 @@
     {
         "merged": "F:\\android\\projects\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
         "source": "C:\\Android\\.android\\build-cache\\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\android\\ASProjects\\otherPerson\\xun\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\android\\as\\.android\\build-cache\\f4911d04df3df9db368b3a2b8e03537a1633dd49\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]
