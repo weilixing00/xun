@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\374cd4d1f0f5b888f975eb2356a51c8b81bafa1c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\a9294da9aacdc163f43e70dcaa899c4b95114c12\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\bf0f00abea50e321186f69eb9ccb2b862d345885\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\e83723b028888ed3ad38577c8cd5b05a7d579119\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\24583da1089d118fc2ed7cb231b502d2459dccf1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\4620b9c30de2b2d9465b920cf483bc510f184eb0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\90674e7fd3db18c3ed1b08666cb7123d1219fd1a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\5a1f07351564ff3e1f59bb4b36bedc4928edab82\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha4] C:\Android\.android\build-cache\b2f1bd9325770a9e152dd4b582986b1596b3da68\output\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation:0.10.3] C:\Android\.android\build-cache\1319f668acf76160ce95a4a0724a491e6904e612\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.server.myapplication.MainActivity
+ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\374cd4d1f0f5b888f975eb2356a51c8b81bafa1c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\a9294da9aacdc163f43e70dcaa899c4b95114c12\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\bf0f00abea50e321186f69eb9ccb2b862d345885\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\e83723b028888ed3ad38577c8cd5b05a7d579119\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\24583da1089d118fc2ed7cb231b502d2459dccf1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\4620b9c30de2b2d9465b920cf483bc510f184eb0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\90674e7fd3db18c3ed1b08666cb7123d1219fd1a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\5a1f07351564ff3e1f59bb4b36bedc4928edab82\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha4] C:\Android\.android\build-cache\b2f1bd9325770a9e152dd4b582986b1596b3da68\output\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:fragmentation:0.10.3] C:\Android\.android\build-cache\1319f668acf76160ce95a4a0724a491e6904e612\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.lzy.net:okrx:0.1.2] C:\Android\.android\build-cache\d71d5ff7ad18caad0d8d65273065fb72b9cdbc78\output\AndroidManifest.xml:8:5-10:41
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Android\.android\build-cache\f887a98871eb017c91b2dedc4b2da2dfea6799f2\output\AndroidManifest.xml:19:5-43
+MERGED from [com.lzy.net:okgo:2.1.4] C:\Android\.android\build-cache\924e9d78470fc72bedac01bc322ed5e9bc8d0107\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\374cd4d1f0f5b888f975eb2356a51c8b81bafa1c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\a9294da9aacdc163f43e70dcaa899c4b95114c12\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\bf0f00abea50e321186f69eb9ccb2b862d345885\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\e83723b028888ed3ad38577c8cd5b05a7d579119\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\24583da1089d118fc2ed7cb231b502d2459dccf1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\4620b9c30de2b2d9465b920cf483bc510f184eb0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\90674e7fd3db18c3ed1b08666cb7123d1219fd1a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\5a1f07351564ff3e1f59bb4b36bedc4928edab82\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\1d089a1a5c0ba71a158e9346dc722cc1a06c447c\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.lzy.net:okgo:2.1.4] C:\Android\.android\build-cache\924e9d78470fc72bedac01bc322ed5e9bc8d0107\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.lzy.net:okgo:2.1.4] C:\Android\.android\build-cache\924e9d78470fc72bedac01bc322ed5e9bc8d0107\output\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.lzy.net:okgo:2.1.4] C:\Android\.android\build-cache\924e9d78470fc72bedac01bc322ed5e9bc8d0107\output\AndroidManifest.xml:12:5-80
+IMPLIED from F:\android\projects\xun\xun\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12 reason: com.lzy.okgo requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [com.lzy.net:okgo:2.1.4] C:\Android\.android\build-cache\924e9d78470fc72bedac01bc322ed5e9bc8d0107\output\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.lzy.net:okgo:2.1.4] C:\Android\.android\build-cache\924e9d78470fc72bedac01bc322ed5e9bc8d0107\output\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [com.lzy.net:okgo:2.1.4] C:\Android\.android\build-cache\924e9d78470fc72bedac01bc322ed5e9bc8d0107\output\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [com.lzy.net:okgo:2.1.4] C:\Android\.android\build-cache\924e9d78470fc72bedac01bc322ed5e9bc8d0107\output\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from [com.lzy.net:okgo:2.1.4] C:\Android\.android\build-cache\924e9d78470fc72bedac01bc322ed5e9bc8d0107\output\AndroidManifest.xml:14:22-81
